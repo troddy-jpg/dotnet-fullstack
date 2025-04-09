@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZbkMLV8QB4=",
+  "success": true,
+  "projectFilePath": "/Users/trevs/RODDY-REPOSITORIES/ACTIVE/dotnet-fullstack/dotnet-fullstack.csproj",
+  "expectedPackageFiles": [
+    "/Users/trevs/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/trevs/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
